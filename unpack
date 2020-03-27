@@ -1,0 +1,2 @@
+cat data.parta* > data.tar.gz
+tar xvzf data.tar.gz -C data/
